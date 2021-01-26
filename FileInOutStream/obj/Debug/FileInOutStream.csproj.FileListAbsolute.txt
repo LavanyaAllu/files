@@ -1,0 +1,6 @@
+E:\DotNetFreshersBatchJan2021\ConsoleAssignments\FilesAssign\FileInOutStream\FileInOutStream\bin\Debug\FileInOutStream.exe.config
+E:\DotNetFreshersBatchJan2021\ConsoleAssignments\FilesAssign\FileInOutStream\FileInOutStream\bin\Debug\FileInOutStream.exe
+E:\DotNetFreshersBatchJan2021\ConsoleAssignments\FilesAssign\FileInOutStream\FileInOutStream\bin\Debug\FileInOutStream.pdb
+E:\DotNetFreshersBatchJan2021\ConsoleAssignments\FilesAssign\FileInOutStream\FileInOutStream\obj\Debug\FileInOutStream.csproj.CoreCompileInputs.cache
+E:\DotNetFreshersBatchJan2021\ConsoleAssignments\FilesAssign\FileInOutStream\FileInOutStream\obj\Debug\FileInOutStream.exe
+E:\DotNetFreshersBatchJan2021\ConsoleAssignments\FilesAssign\FileInOutStream\FileInOutStream\obj\Debug\FileInOutStream.pdb
